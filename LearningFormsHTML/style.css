@@ -1,0 +1,35 @@
+body {
+	background-color: #FFF8DC;
+	background-image: url(SanFrancisco.jpg);
+}
+
+#Username{
+	float: center;
+}
+#FullName{
+	float: left;
+}
+#Profile{
+	float: left;
+}
+#Hobbies{
+	float: left;
+}x
+#Email{
+	float: center;
+}
+#Date{
+	float: center;
+}
+#Number{
+	float: center;
+}
+#File{
+	float: center;
+}
+#CheckBox{
+	float:center;
+}
+#Submit{
+	background-color: green;
+}
